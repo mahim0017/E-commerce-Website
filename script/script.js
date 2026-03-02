@@ -100,7 +100,7 @@ function renderApp() {
          h2.classList.add("text-gray-500", "text-sm", "mb-2");
 
         const p = document.createElement("p");
-        p.textContent = item.price;
+        p.textContent = `${item.price} BDT`;
         p.classList.add("text-green-600", "font-bold", "text-lg", "mb-4");        
         const btn = document.createElement("button");
         btn.textContent = "add to cart";
