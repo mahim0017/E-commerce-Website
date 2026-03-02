@@ -3,73 +3,73 @@ const products = [
     name: "iPhone 15",
     price: 120000,
     brand: "Apple",
-    image: "../images/iPhone_15_Pink.webp"
+    image: "images/iPhone_15_Pink.webp"
   },
   {
     name: "Galaxy S24",
     price: 95000,
     brand: "Samsung",
-    image: "../images/Titanium_Gray_S24.webp"
+    image: "images/Titanium_Gray_S24_Ultra_1.webp"
   },
   {
     name: "Pixel 8",
     price: 85000,
     brand: "Google",
-    image: "../images/Pixel_8_HD.webp"
+    image: "images/Pixel_8_HD.webp"
   },
   {
     name: "Xperia 5",
     price: 70000,
     brand: "Sony",
-    image: "../images/Sony-Xperia-5-Redmi.jpg"
+    image: "images/Sony-Xperia-5-Red.jpg"
   },
   {
     name: "Redmi Note 13",
     price: 30000,
     brand: "Xiaomi",
-    image: "../images/redmi.jpg"
+    image: "images/redmi.jpg"
   },
   {
     name: "OnePlus 12",
     price: 65000,
     brand: "OnePlus",
-    image: "../images/OnePlus-12-price-....jpg"
+    image: "images/OnePlus-12-price-in-Bangladesh-Green.jpg"
   },
   {
     name: "Asus Zenfone 10",
     price: 60000,
     brand: "Asus",
-    image: "../images/Asus_Zenfone_10_.jpg"
+    image: "images/Asus_Zenfone_10_Starry_Blue.webp"
   },
   {
     name: "Motorola",
     price: 40000,
     brand: "Motorola",
-    image: "../images/motorola.webp"
+    image: "images/motorola.webp"
   },
   {
     name: "Nothing Phone",
     price: 50000,
     brand: "Nothing",
-    image: "../images/nothing.jpg"
+    image: "images/nothing.jpg"
   },
   {
     name: "Oppo",
     price: 45000,
     brand: "Oppo",
-    image: "../images/oppo.jpg"
+    image: "images/oppo.jpg"
   },
   {
     name: "Realme GT5",
     price: 42000,
     brand: "Realme",
-    image: "../images/Realme_GT5_Flowin.webp"
+    image: "images/Realme_GT5_Flowing_Silver.webp"
   },
   {
     name: "Vivo",
     price: 38000,
     brand: "Vivo",
-    image: "../images/vivo.webp"
+    image: "images/vivo.webp"
   }
            
 ]
